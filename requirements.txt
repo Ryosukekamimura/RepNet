@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+youtube_dl
+opencv-python
+scipy
+tensorflow
